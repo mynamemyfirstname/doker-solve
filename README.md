@@ -1,2 +1,2 @@
 # doker-solve
-repositories for doker
+repositories for doker devops 2019
